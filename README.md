@@ -4,6 +4,8 @@ Hey, there! I'm a computer science student at Universidade Católica de Brasíli
 
 I've been working on random projects in order to construct my experience in software development. Most of these projects are still quite simple at the moment, but essential for me to understanding the fundamentals of oop, APIs, databases, and web programming.
 
+Besides that, I am focused on improving my English skills while beginning my journey in learning French and Italian, as I may one day decide to pursue an international career.
+
 #### Contact me <br>
 ![My Skills](https://img.shields.io/badge/email-kemilymendes10@gmail.com-hexcolor.svg)
 
